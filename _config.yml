@@ -23,8 +23,8 @@ author:
   email:            your-id@your-email.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2020
+  name:             Slmeng
 
 # Google-analytics
 google-analytics:
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/slmeng2008"
 
 # Sass
 sass:
